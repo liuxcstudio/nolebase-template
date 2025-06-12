@@ -1,6 +1,6 @@
 /** 文本 */
-export const siteName = 'XY'sBlog'
-export const siteShortName = 'XY'sBlog'
+export const siteName = '无名'
+export const siteShortName = '无名的博客'
 export const siteDescription = '记录回忆，知识和畅想的地方'
 
 /** 文档所在目录 */
